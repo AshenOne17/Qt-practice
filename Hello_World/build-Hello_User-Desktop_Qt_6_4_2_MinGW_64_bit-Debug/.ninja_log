@@ -1,0 +1,19 @@
+# ninja log v5
+1	1043	7001206273344908	Hello_User_autogen/timestamp	f627c6e882623894
+1	1043	7001206273344908	Hello_User_autogen/mocs_compilation.cpp	f627c6e882623894
+1	1043	7001206273344908	D:/Programming/Practice/Qt/build-Hello_User-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Hello_User_autogen/timestamp	f627c6e882623894
+1	1043	7001206273344908	D:/Programming/Practice/Qt/build-Hello_User-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Hello_User_autogen/mocs_compilation.cpp	f627c6e882623894
+1044	3640	7001206302595899	CMakeFiles/Hello_User.dir/Hello_User_autogen/mocs_compilation.cpp.obj	1076fc9ec1eecd9b
+1054	3655	7001206302746258	CMakeFiles/Hello_User.dir/main.cpp.obj	b8244ee6d30892e5
+9	403	7001209561477546	Hello_User_autogen/timestamp	f627c6e882623894
+9	403	7001209561477546	Hello_User_autogen/mocs_compilation.cpp	f627c6e882623894
+9	403	7001209561477546	D:/Programming/Practice/Qt/build-Hello_User-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Hello_User_autogen/timestamp	f627c6e882623894
+9	403	7001209561477546	D:/Programming/Practice/Qt/build-Hello_User-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Hello_User_autogen/mocs_compilation.cpp	f627c6e882623894
+415	2955	7001209587013905	CMakeFiles/Hello_User.dir/mainwindow.cpp.obj	aabf8aac954879d9
+2956	3423	7001209591646877	Hello_User.exe	958dc220bd49b745
+6	305	7007791614979201	Hello_User_autogen/timestamp	f627c6e882623894
+6	305	7007791614979201	Hello_User_autogen/mocs_compilation.cpp	f627c6e882623894
+6	305	7007791614979201	D:/Programming/Practice/Qt/build-Hello_User-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Hello_User_autogen/timestamp	f627c6e882623894
+6	305	7007791614979201	D:/Programming/Practice/Qt/build-Hello_User-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/Hello_User_autogen/mocs_compilation.cpp	f627c6e882623894
+308	2736	7007791639293991	CMakeFiles/Hello_User.dir/mainwindow.cpp.obj	aabf8aac954879d9
+2737	2973	7007791641628328	Hello_User.exe	958dc220bd49b745
